@@ -47,3 +47,5 @@ Temporary Items
 .apdisk
 .idea/workspace.xml
 .idea/scopes/scope_settings.xml
+.idea/compiler.xml
+.idea/*
